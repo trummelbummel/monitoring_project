@@ -24,7 +24,7 @@ def score_model(model_path, test_data_path):
     plt.colorbar()
     plt.ylabel('True Label')
     plt.xlabel('Predicated Label')
-    plt.savefig(os.path.join(model_path, 'confusion_matrix.png'))
+    plt.savefig(os.path.join(model_path, 'confusion_matrix2.png'))
 
 
 if __name__ == '__main__':
