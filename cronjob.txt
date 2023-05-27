@@ -1,0 +1,2 @@
+*/10 * * * */Users/q479493/anaconda/bin/python fullprocess.py
+
